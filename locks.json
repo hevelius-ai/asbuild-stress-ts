@@ -1,0 +1,16 @@
+{
+  "files": {
+    "tests/acceptance/S1/S1-C1.test.tsx": {
+      "sha256": "f4b1f10f52eb084db79212544f52ce197adaa3b8767009066f2422a984ba768a",
+      "tests": [
+        "S1-C1 typing a name and pressing Say hello greets you by name"
+      ]
+    },
+    "tests/acceptance/S1/S1-C2.test.tsx": {
+      "sha256": "3270381aef857eb6f961cc0ea3d339bda6693c65caef938ef986154541340e66",
+      "tests": [
+        "S1-C2 pressing Say hello with no name asks you to type one"
+      ]
+    }
+  }
+}
